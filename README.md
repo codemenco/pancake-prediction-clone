@@ -1,7 +1,7 @@
 # 🥞 Pancake-Style Prediction (Clone) — Multi-Chain DeFi Market
 **Predict. Lock. Win. Across All Chains.** 🌐🔮  
 
-![Banner](A_promotional_digital_graphic_design_banner_showca.png)
+![Banner](Banner.png)
 
 ---
 
@@ -172,7 +172,7 @@ Fork it, modify it, deploy it — attribution appreciated.
 Built by **Codemen**  
 Inspired by PancakeSwap Prediction, Chainlink Oracles, and the growing DeFi gaming ecosystem.  
 
-![Logo](A_flat_digital_graphic_logo_features_promotional_c.png)
+![Logo](Icon.png)
 
 > 🥞 “Predict. Lock. Win.” — now multi-chain.  
 > Launch your own on-chain prediction platform today with [codemen.me](https://codemen.me)
